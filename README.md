@@ -7,12 +7,19 @@ Throughout this project, an embedded control loop system was designed in order t
 * Intermediate knowledge of microcontrollers
 * Basic understanding of control systems
 * Intermediate understanding of C
+* Access to Arduino Cloud 
 * Access to the following materials:
   * STM32 NUCLEO-H745ZI-Q 
-  * High reduction DC motor
+  * High reduction DC motor (view https://articulo.mercadolibre.com.mx/MLM-1870381714-motor-dc-12v390-dc-caja-de-cambios-_JM?matt_tool=28238160&utm_source=google_shopping&utm_medium=organic)
   * AS5600 magnetic sensor
-  * Access to pieces for rotary encoder (view https://github.com/scottbez1/AS5600Knob)
-  * LEDs
-  * 220/330 ohm resistors
+  * Pieces for rotary encoder (view https://github.com/scottbez1/AS5600Knob)
+  * MPU6050 IMU
+  * ESP32 WROOM 32
+  * MCP2515 (CAN Bus SPI)
+  * SN65HVD230 (CAN transceiver)
+  * 2 - push buttons
+  * 2 - 330 ohm resistor
+  * OLED Display witth SH1106 or SSD1306 driver (https://github.com/afiskon/stm32-ssd1306/tree/master)
+  * 5 meters of 16 AWG cable
  
 ## Schematic diagram
