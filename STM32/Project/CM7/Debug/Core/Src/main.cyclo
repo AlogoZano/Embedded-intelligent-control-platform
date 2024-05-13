@@ -1,0 +1,14 @@
+../Core/Src/main.c:143:5:main	8
+../Core/Src/main.c:226:6:SystemClock_Config	4
+../Core/Src/main.c:285:13:MX_I2C2_Init	4
+../Core/Src/main.c:333:13:MX_TIM6_Init	3
+../Core/Src/main.c:371:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:419:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:455:13:MX_GPIO_Init	1
+../Core/Src/main.c:473:6:MPU6050_init	2
+../Core/Src/main.c:492:6:MPU6050_read_gyro	1
+../Core/Src/main.c:514:5:bitReverse	2
+../Core/Src/main.c:525:6:iterativeFFT	9
+../Core/Src/main.c:552:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:571:6:evaluacionFrec	3
+../Core/Src/main.c:589:6:Error_Handler	1
