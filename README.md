@@ -27,3 +27,18 @@ Throughout this project, an embedded control loop system was designed in order t
 <img src="https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/5e30e50e-0bb3-4c6c-8b05-f9ddd1a9df8b"/>
 </p>
 
+## Dashboard
+This mobile dashboard was created using Arduino cloud and controls position, queries the actual position and error coming from the vibration analysis via the FFT development.
+<p align="center">
+<img src="https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/b01e0992-a99c-4e3f-a558-ee4340a9a0b3"/>
+</p>
+
+## Control response (time domain)
+The PID controller response follos the reference accurately with a settling time of 0.6s and a 2.3% overshoot.
+<p align="center">
+<img src="https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/122b8105-12b6-431d-bd51-1bfa85cf9602"/>
+</p>
+
+## Full demonstration
+View here: https://github.com/AlogoZano/Embedded-intelligent-control-platform/tree/main/Demo
+
