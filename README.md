@@ -23,3 +23,8 @@ Throughout this project, an embedded control loop system was designed in order t
   * 5 meters of 16 AWG cable
  
 ## Schematic diagram
+![image](https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/1260de76-67e5-4461-923f-0cb766dae576)
+![image](https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/767687ed-9999-4c29-8f0d-d015d3d94185)
+![image](https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/8a342156-2b87-4f18-93ac-b6c458667d0d)
+![image](https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/082b27fc-8c57-4f49-b993-400a9e494bfd)
+
