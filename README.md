@@ -39,6 +39,15 @@ The PID controller response follos the reference accurately with a settling time
 <img src="https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/122b8105-12b6-431d-bd51-1bfa85cf9602"/>
 </p>
 
+## Dual core implementation
+Due to complicated processes happening simultaneously, a sempahore approach was implemented where the shared memory is the alert given by the frequency analysis threshold. The CM4 had everything related to control, OLED display animations and low level algorithms for external interruptions, on the other hand since the CM7 holds more arithmetic power it was programmed to implement the FFT and consequentially the MPU6050 readings.
+
+<p align="center">
+<img src="https://github.com/AlogoZano/Embedded-intelligent-control-platform/assets/160699916/4cb147a0-e2b7-4f02-829f-0adc61b06d25"/>
+</p>
+
+
+
 ## Full demonstration
 View here: https://github.com/AlogoZano/Embedded-intelligent-control-platform/tree/main/Demo
 
